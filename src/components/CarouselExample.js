@@ -11,61 +11,35 @@ class CarouselExample extends React.Component {
       <div>
       <Carousel autoPlay>
         <div>
-          <img src="http://lorempixel.com/output/cats-q-c-640-480-1.jpg" />
+          <img src="https://image.shutterstock.com/image-photo/seductive-brunette-woman-posing-on-600w-1360452281.jpg" />
           <p className="legend">Legend 1</p>
         </div>
         <div>
-          <img src="http://lorempixel.com/output/cats-q-c-640-480-2.jpg" />
+          <img src="https://image.shutterstock.com/image-photo/seductive-brunette-woman-undresses-elegant-260nw-1320854861.jpg" />
           <p className="legend">Legend 2</p>
         </div>
         <div>
-          <img src="http://lorempixel.com/output/cats-q-c-640-480-3.jpg" />
+          <img src="https://image.shutterstock.com/image-photo/young-model-works-on-webcam-600w-1360452287.jpg" />
           <p className="legend">Legend 3</p>
         </div>
         <div>
-          <img src="http://lorempixel.com/output/cats-q-c-640-480-4.jpg" />
+          <img src="https://image.shutterstock.com/image-photo/beauty-yong-brunette-woman-sitting-600w-552601249.jpg" />
           <p className="legend">Legend 4</p>
         </div>
         <div>
-          <img src="http://lorempixel.com/output/cats-q-c-640-480-5.jpg" />
+          <img src="https://image.shutterstock.com/image-photo/beautiful-young-girl-underwear-600w-501906214.jpg" />
           <p className="legend">Legend 5</p>
         </div>
         <div>
-          <img src="http://lorempixel.com/output/cats-q-c-640-480-6.jpg" />
+          <img src="https://image.shutterstock.com/image-photo/sexy-woman-black-lingerie-heels-600w-575934553.jpg" />
           <p className="legend">Legend 6</p>
         </div>
         <div>
-          <img src="http://lorempixel.com/output/cats-q-c-640-480-7.jpg" />
+          <img src="https://image.shutterstock.com/image-photo/sexy-woman-black-lingerie-heels-600w-575936158.jpg" />
           <p className="legend">Legend 7</p>
         </div>
-        <div>
-          <img src="http://lorempixel.com/output/cats-q-c-640-480-8.jpg" />
-          <p className="legend">Legend 8</p>
-        </div>
-        <div>
-          <img src="http://lorempixel.com/output/cats-q-c-640-480-9.jpg" />
-          <p className="legend">Legend 9</p>
-        </div>
-        <div>
-          <img src="http://lorempixel.com/output/cats-q-c-640-480-10.jpg" />
-          <p className="legend">Legend 10</p>
-        </div>
-        <div>
-          <img src="http://lorempixel.com/output/cats-q-c-640-480-11.jpg" />
-          <p className="legend">Legend 11</p>
-        </div>
-        <div>
-          <img src="http://lorempixel.com/output/cats-q-c-640-480-12.jpg" />
-          <p className="legend">Legend 12</p>
-        </div>
-        <div>
-          <img src="http://lorempixel.com/output/cats-q-c-640-480-13.jpg" />
-          <p className="legend">Legend 13</p>
-        </div>
-        <div>
-          <img src="http://lorempixel.com/output/cats-q-c-640-480-14.jpg" />
-          <p className="legend">Legend 14</p>
-        </div>
+  
+
       </Carousel>
       </div>
     )
